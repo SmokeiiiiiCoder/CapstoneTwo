@@ -1,0 +1,3 @@
+JPX Tokyo Stock Exchange Prediction
+
+The idea of this capstone is to predict JPX tokyo stock exchange. As we all know the pricinple of trading is buying at a low price, and selling at a high price. In this capstone, prediction of a single day best performance 200 stocks will be returned. And all data is porvided by kaggle.
